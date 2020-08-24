@@ -16,5 +16,5 @@ I have implemented a graphical user interface for a user with options to start a
 
 
 <div align="center">
-    <img src="ss1.jpg" width="400px"</img> 
+    <img src="ss1.png" width="400px"</img> 
 </div>
