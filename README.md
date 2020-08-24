@@ -15,3 +15,6 @@ I have implemented a graphical user interface for a user with options to start a
 5)Save- On selecting this button the current text on the paint interface is saved as an image to be passed to our model for text extraction. This will also work when we will close program
 
 
+<div align="center">
+    <img src="ss1.jpg" width="400px"</img> 
+</div>
